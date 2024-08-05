@@ -1,4 +1,3 @@
-// Destino.jsx (modificado)
 import React from 'react';
 import './App.css';
 

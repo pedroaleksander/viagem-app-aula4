@@ -1,5 +1,5 @@
-// FormDestino.jsx
 import React, { useState } from 'react';
+import "./App.css"
 
 const FormDestino = ({ adicionarDestino }) => {
   const [nome, setNome] = useState('');
